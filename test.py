@@ -1,4 +1,4 @@
-name="ira"
+name="mativa"
 i=0 
 while i in name:
   if name[i]==2
